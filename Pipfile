@@ -7,6 +7,7 @@ name = "pypi"
 pypresence = "*"
 requests = "*"
 "discord.py" = "*"
+"ruamel.yaml" = "*"
 
 [dev-packages]
 
